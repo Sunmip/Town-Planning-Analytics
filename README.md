@@ -29,4 +29,4 @@ The purpose of the analysis is to informed make decisions for town planning and 
 - **Infrastructure Development**: Determine which infrastructure is to be prioritized for the town, considering options like housing, a train station, a religious building, or an emergency medical center.
 - **Investment Priorities**: Decide where to invest resources, such as employment and training, old age care, schooling, or general infrastructure.
 
-
+Note: This project is for illustrative purposes only. The data and content are publicly sourced, and I do not own them.
